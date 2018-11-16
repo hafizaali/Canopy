@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   h1 a {
     display: block;
@@ -41,13 +42,65 @@
       font-family: 'Marmelad', sans-serif;
 
   }
+=======
+h1 {
+  display: block;
+  color: #009933;
+  font-family: 'Marmelad', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  margin: 5px 0 5px 0;
+  <link href="https://fonts.googleapis.com/css?family=Marmelad" rel="stylesheet">
+}
+h2 {
+  text-align: center;
+  margin: 10px 0 40px 0;
+  color: #009933;
+  font-size: 20px;
+}
+body {
+  font-family: helvetica, sans-serif;
+  margin: 0 auto;
+  max-width: 600px;
+  background-color: #F8F8F8;
+}
+li {
+    display: block;
+    padding: 5px;
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+  ul {
+    padding: 10px;
+    background: white;
+}
 
-  img {
-    margin: 20px 0 20px 0;
-    width: 100%;
+img {
+  margin: 20px 0 20px 0;
+  width: 100%;
+}
+>>>>>>> 8e94363252067647c1cc642fb9ee1c3f84cc2d3e
 
+input[type=text] {
+width: 100%;
+padding: 15px;
+margin: 5px 0 22px 0;
+display: inline-block;
+border: none;
+background: #f1f1f1;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
   }
 
+<<<<<<< HEAD
   body{
     background-color: #008080;
 
@@ -98,4 +151,9 @@ label {
   color: #008080;
   font-family: 'Marmelad', sans-serif;
   font-size: 18px;
+=======
+  .topnav a:hover {
+    background-color: #ddd;
+    color: Green;
+>>>>>>> 8e94363252067647c1cc642fb9ee1c3f84cc2d3e
 }
