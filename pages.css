@@ -38,14 +38,13 @@
       padding: 10px;
       background: white;
       text-align: center;
-  
+
 
   }
 
   img {
     margin: 20px 0 20px 0;
     width: 100%;
-
   }
 
   body{
@@ -60,6 +59,7 @@
 
   div {
     background-color:white;
+
   }
 
   .buttons {
