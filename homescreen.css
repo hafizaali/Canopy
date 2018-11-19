@@ -10,6 +10,7 @@
   body {
     font-family: helvetica, sans-serif;
     background-color:grey;
+    background-image: url("leaves_background.jpg");
   }
   li {
       display: block;
