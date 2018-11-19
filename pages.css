@@ -5,12 +5,19 @@
     background-color: white;
     font-family: 'seasideresortnfregular';
     font-size: 60px;
-    text-align:center;
-  }
+    text-align:center;}
+
+  h1{display: block;
+  color: green;
+  background-color: white;
+  font-family: 'seasideresortnfregular';
+  font-size: 40px;
+  text-align:center;}
+
   h2 {
     text-align: center;
     margin: 10px 0 40px 0;
-    color: white;
+    color: black;
     font-size: 20px;
   }
   h3 {
@@ -212,5 +219,6 @@ li a: hover {
 }
 
 .topnav {
+  padding-bottom:4px 4px 0px 4px;
 
 }
