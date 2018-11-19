@@ -7,6 +7,14 @@
     font-size: 60px;
     text-align:center;
   }
+  h6 {
+    font-size: 30px;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    margin: 10px 10px;
+    font-family: 'seasideresortnfregular';
+    color: grey;
+  }
   h2 {
     text-align: center;
     margin: 10px 0 40px 0;
@@ -209,8 +217,4 @@ li a: hover {
 }
 .contact {
   background-color: white;
-}
-
-.topnav {
-
 }
