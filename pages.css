@@ -5,6 +5,7 @@
     background-color: white;
     font-family: 'seasideresortnfregular';
     font-size: 60px;
+<<<<<<< HEAD
     text-align:center;
   }
   h6 {
@@ -15,10 +16,21 @@
     font-family: 'seasideresortnfregular';
     color: grey;
   }
+=======
+    text-align:center;}
+
+  h1{display: block;
+  color: green;
+  background-color: white;
+  font-family: 'seasideresortnfregular';
+  font-size: 40px;
+  text-align:center;}
+
+>>>>>>> 6d149fee073d22dfc7177dce7db62a609a309f0c
   h2 {
     text-align: center;
     margin: 10px 0 40px 0;
-    color: white;
+    color: black;
     font-size: 20px;
   }
   h3 {
@@ -219,3 +231,11 @@ li a: hover {
 .contact {
   background-color: white;
 }
+<<<<<<< HEAD
+=======
+
+.topnav {
+  padding-bottom:4px 4px 0px 4px;
+
+}
+>>>>>>> 6d149fee073d22dfc7177dce7db62a609a309f0c
