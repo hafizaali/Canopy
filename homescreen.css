@@ -18,6 +18,8 @@
       display: inline;
       padding: 0px 10px 0px 10px;
   }
+
+
     ul {
       padding: 10px;
       background: white;
@@ -65,4 +67,12 @@ img {
     .mobile-title {
       display: none;
     }
+  }
+
+  .block {
+    background-color: white;
+    margin: 0 60px 0 60px;
+  }
+  .contact{
+    background-color: white;
   }
