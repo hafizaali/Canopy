@@ -64,7 +64,6 @@
 
   img {
     margin: 20px 0 20px 0;
-    width: 100%;
 
   }
 
@@ -222,12 +221,11 @@ li a: hover {
   .prev, .next,.text {font-size: 11px}
 }
 
-
-#blossom {
-
-  align-items: center;
-
+.cherry_blossom_4k_timelapse {
+  width: 100px;
+  height: auto;
 }
+
 .contact {
   background-color: white;
 }
