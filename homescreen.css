@@ -4,7 +4,7 @@
     text-align: center;
     margin: 10px 0 40px 0;
     color: #008080;
-    font-family: 'Marmelad', sans-serif;
+    font-family: 'seasideresortnfregular';
     font-size: 20px;
   }
   body {
@@ -48,7 +48,7 @@ img {
   .mobile-title {
     display: block;
     color: #008080;
-    font-family: 'Marmelad', sans-serif;
+    font-family: 'seasideresortnfregular';
     font-size: 60px;
     text-align:center;
 
@@ -57,7 +57,7 @@ img {
     .desktop-title {
       display: block;
       color: #008080;
-      font-family: 'Marmelad', sans-serif;
+    font-family: 'seasideresortnfregular';
       font-size: 60px;
       text-align: center;
       margin: 5px 0 5px 0;
@@ -71,8 +71,23 @@ img {
 
   .block {
     background-color: white;
-    margin: 0 60px 0 60px;
+    margin: 60px 60px 60px 60px;
   }
-  .contact{
-    background-color: white;
-  }
+
+.col-md-4 {
+  background-color: white;
+      margin: 0px 0px 60px 0px;
+}
+
+@font-face {
+    font-family: 'seasideresortnfregular';
+    src: url('SEASRN__-webfont.eot');
+    src: url('SEASRN__-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SEASRN__-webfont.woff2') format('woff2'),
+         url('SEASRN__-webfont.woff') format('woff'),
+         url('SEASRN__-webfont.ttf') format('truetype'),
+         url('SEASRN__-webfont.svg#seasideresortnfregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
