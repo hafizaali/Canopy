@@ -62,6 +62,11 @@
       background: white;
       text-align: center;
 
+}
+.row {
+  margin: 6px 6px 6px 6px;
+
+}
 
   }
 
@@ -230,9 +235,11 @@ li a: hover {
   height: auto;
 }
 
-.contact {
+div  .col-md-4{
   background-color: white;
+  margin: 0px 0px 60px 0px;
 }
+
 
 
 .topnav {
