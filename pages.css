@@ -1,5 +1,6 @@
 .heading {
   background-color: white;
+
 }
   h1 a {
     display: block;
@@ -7,7 +8,6 @@
     background-color: white;
     font-family: 'seasideresortnfregular';
     font-size: 60px;
-
     text-align:center;
   }
   h6 {
@@ -19,7 +19,7 @@
     color: grey;
   }
 
-    text-align:center;}
+
 
   h1
   {display: block;
@@ -83,6 +83,7 @@
 
   div {
     background-color:white;
+    margin: 60px 60px 60px 60px;
   }
 
   .buttons {
@@ -134,11 +135,11 @@ ul li {
 li a{
   color: inherit;
   Text-decoration: none;
-  float: left;
-  font-size: 25px;
+  float: center;
+  font-size: 18px;
   padding: 12px;
-  max-width: 17%
-
+  max-width: 100%;
+  color: green;
 }
 
 li a: hover {
@@ -232,12 +233,9 @@ li a: hover {
 .contact {
   background-color: white;
 }
-<<<<<<< HEAD
-=======
+
 
 .topnav {
   padding-bottom:4px 4px 0px 4px;
 
 }
-
->>>>>>> 6d149fee073d22dfc7177dce7db62a609a309f0c
