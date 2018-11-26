@@ -504,3 +504,14 @@ p{
    .prev, .next,.text {font-size: 11px}
 
  }
+
+ input {
+   width:90%;
+   border: 2px solid #008080;
+   color:#008080;
+   text-align: center;
+   border-radius: 4px;
+   box-sizing: border-box;
+   padding: 12px 20px;
+   margin: 5px 5px;
+ }
