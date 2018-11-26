@@ -330,6 +330,7 @@ li a:link{
    text-align: center;
    font-size: 40px;
    font-family: 'marmelad', cursive;
+   color: green;
 
  }
 
@@ -351,12 +352,14 @@ li a:link{
  ul {
        padding: 10px;
        background: white;
-       text-align: left;
+       text-align: center;
      }
  ul li {
        list-style: none;
        font-family: 'seasideresortnfregular';
        margin-right: 1em;
+       color: grey;
+       text-align: center;
      }
 
  li a{
@@ -379,6 +382,7 @@ li a:link{
  li {
      border-right: 1px solid #bbb;
      border-bottom: 1px solid #bbb;
+
    }
  .gif {
    background-color:white;
@@ -412,7 +416,7 @@ li a:link{
 
  h6 {
    font-size: 15px;
-   text-align: left;
+   text-align: center;
    padding: 10px 0px 0px 30px;
    margin: 10px 10px;
    font-family: 'seasideresortnfregular';
@@ -424,7 +428,15 @@ li a:link{
    border-bottom: 0;
  }
 
- /*slideshow style*/
+p{
+  color:green;
+}
+
+
+ @media only screen and (max-width: 300px) {
+   .prev, .next,.text {font-size: 11px}
+
+
 .text{
    color: green;
    font-size: 35px;
@@ -495,4 +507,5 @@ li a:link{
 
  @media only screen and (max-width: 300px) {
    .prev, .next,.text {font-size: 11px}
+
  }
