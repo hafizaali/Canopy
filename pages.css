@@ -1,4 +1,4 @@
-.heading {
+/* .heading {
   background-color: white;
 
 }
@@ -18,7 +18,7 @@
     font-family: 'seasideresortnfregular';
     color: grey;
   }
-  
+
   h1
   {display: block;
   color: green;
@@ -129,14 +129,14 @@ label {
 }
 
 /*navigation style*/
-ul li {
+/* ul li {
   float: left;
   list-style: none;
   font-family: 'seasideresortnfregular';
   margin-right: 1em;
-}
+} */
 
-li a{
+/* li a{
   color: inherit;
   Text-decoration: none;
   float: center;
@@ -161,10 +161,10 @@ li a: hover {
     font-weight: normal;
     font-style: normal;
 
-}
+} */
 
 /*slideshow style*/
-.text{
+/* .text{
   color: green;
   font-size: 35px;
   text-align: center;
@@ -276,4 +276,150 @@ li a:link{
    float: right;
    font-size: 9px;
    margin-top: 0px;
+ } */
+ body {
+   font-family: 'marmelad', cursive;
+   background-image: url("leaves_background.jpg");
+ }
+
+ div {
+   background-color:white;
+   margin: 20px 60px 20px 60px;
+   padding: 5px 10px 5px 10px;
+ }
+
+ .heading {
+   padding: 0px;
+   margin: 10px 60px 0px 60px;
+ }
+
+ @font-face {
+     font-family: 'seasideresortnfregular';
+     src: url('SEASRN__-webfont.eot');
+     src: url('SEASRN__-webfont.eot?#iefix') format('embedded-opentype'),
+          url('SEASRN__-webfont.woff2') format('woff2'),
+          url('SEASRN__-webfont.woff') format('woff'),
+          url('SEASRN__-webfont.ttf') format('truetype'),
+          url('SEASRN__-webfont.svg#seasideresortnfregular') format('svg');
+     font-weight: normal;
+     font-style: normal;
+ }
+ h1
+ {display: block;
+ color: green;
+ background-color: white;
+ font-family: 'seasideresortnfregular';
+ font-size: 50px;
+ text-align:center;
+ }
+ h1 a {
+   display: block;
+   color: green;
+   background-color: white;
+   font-family: 'seasideresortnfregular';
+   text-align:center;
+ }
+ h2 {
+   text-align: center;
+   margin: 10px 0 40px 0;
+   color: green;
+   font-size: 17px;
+   font-family: 'Marck Script', cursive;
+ }
+ h3 {
+   text-align: center;
+   font-size: 40px;
+   font-family: 'marmelad', cursive;
+
+ }
+
+ .cherry_blossom_4k_timelapse {
+   width: 100px;
+   height: auto;
+   float:left;
+ }
+
+
+ li  {
+     display: inline-block;
+     padding: 5px;
+     display: inline;
+     padding: 0px 2px 0px 2px;
+
+ }
+
+ ul {
+       padding: 10px;
+       background: white;
+       text-align: left;
+     }
+ ul li {
+       list-style: none;
+       font-family: 'seasideresortnfregular';
+       margin-right: 1em;
+     }
+
+ li a{
+   color: inherit;
+   Text-decoration: none;
+   font-size: 15px;
+   padding: 5px;
+   max-width: 100%;
+   color: green;
+ }
+ .search {
+   float:right;
+ }
+ li a: hover {
+   color: inherit;
+ }
+ .topnav {
+   padding-bottom:4px 4px 0px 4px;
+ }
+ li {
+     border-right: 1px solid #bbb;
+     border-bottom: 1px solid #bbb;
+   }
+ .gif {
+   background-color:white;
+   margin: 20px 60px 20px 60px;
+   padding: 5px 10px 5px 10px;
+ }
+
+ img {
+     margin: 20px 0 20px 0;
+   }
+   .buttons {
+   height:30px;
+   width: 30px;
+   text-align: center;
+ }
+ .row {
+   margin: 6px 6px 6px 6px;
+ }
+ div  .col-md-4{
+   background-color: white;
+   margin: 0px 0px 60px 0px;
+ }
+ .welcome p {
+   font-size: 25px;
+   font-family: 'Marck Script', cursive;
+   padding: 100px 20px 115px 20px;
+   text-align:center;
+   background-color: black;
+   color: white;
+ }
+
+ h6 {
+   font-size: 15px;
+   text-align: left;
+   padding: 10px 0px 0px 30px;
+   margin: 10px 10px;
+   font-family: 'seasideresortnfregular';
+   color: grey;
+ }
+ .contact ul li {
+   font-family: 'marmelad',cursive;
+   font-size: 12px;
+   border-bottom: 0;
  }
