@@ -446,7 +446,7 @@ p{
    font-family: 'Marck Script', cursive;
  }
  .slideshow-container {
-   max-width: 900px;
+   max-width: 800px;
    position: relative;
    margin: auto;
  }
@@ -521,3 +521,9 @@ p{
    padding: 12px 20px;
    margin: 5px 5px;
  }
+
+
+h4{
+  text-align: center;
+  color:grey;
+}
