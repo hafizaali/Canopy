@@ -432,11 +432,6 @@ p{
   color:green;
 }
 
-
- @media only screen and (max-width: 300px) {
-   .prev, .next,.text {font-size: 11px}
-
-
 .text{
    color: green;
    font-size: 35px;
