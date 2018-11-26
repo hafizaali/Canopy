@@ -12,15 +12,13 @@
   }
   h6 {
     font-size: 30px;
-    text-align: center;
+    text-align: left;
     padding: 20px 0px 0px 0px;
     margin: 10px 10px;
     font-family: 'seasideresortnfregular';
     color: grey;
   }
-
-
-
+  
   h1
   {display: block;
   color: green;
@@ -254,15 +252,6 @@ li {
     font-size: 20px;
   }
 
-.topnav {
-  width: 100%;
-  overflow: auto;
-}
-ul
-padding:0;
-margin: 0
-list-instyle:none;
-}
 li {
   float: left;
 }
@@ -281,4 +270,3 @@ li a:link{
    font-size: 9px;
    margin-top: 0px;
  }
-  }
