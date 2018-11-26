@@ -330,6 +330,7 @@ li a:link{
    text-align: center;
    font-size: 40px;
    font-family: 'marmelad', cursive;
+   color: green;
 
  }
 
@@ -357,6 +358,8 @@ li a:link{
        list-style: none;
        font-family: 'seasideresortnfregular';
        margin-right: 1em;
+       color: grey;
+       text-align: center;
      }
 
  li a{
@@ -422,4 +425,14 @@ li a:link{
    font-family: 'marmelad',cursive;
    font-size: 12px;
    border-bottom: 0;
+ }
+
+p{
+  color:green;
+}
+
+
+ @media only screen and (max-width: 300px) {
+   .prev, .next,.text {font-size: 11px}
+
  }
