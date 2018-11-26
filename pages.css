@@ -394,6 +394,10 @@ li a:link{
    background-color:white;
    margin: 20px 60px 20px 60px;
    padding: 5px 10px 5px 10px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
  }
 
  img {
@@ -415,7 +419,7 @@ li a:link{
    font-size: 25px;
    font-family: 'Marck Script', cursive;
    padding: 100px 20px 115px 20px;
-   text-align:center;
+   text-align: center;
    background-color: black;
    color: white;
  }
