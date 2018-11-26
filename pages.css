@@ -372,6 +372,12 @@ li a:link{
  }
  .search {
    float:right;
+   width:10%;
+   border: 2px solid green;
+   color: green;
+   text-align: center;
+   height: 30px;
+
  }
  li a: hover {
    color: inherit;
@@ -515,3 +521,15 @@ p{
    padding: 12px 20px;
    margin: 5px 5px;
  }
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h4{
+  text-align: center;
+  color:grey;
+}
