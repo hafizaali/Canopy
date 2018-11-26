@@ -352,7 +352,7 @@ li a:link{
  ul {
        padding: 10px;
        background: white;
-       text-align: left;
+       text-align: center;
      }
  ul li {
        list-style: none;
@@ -382,6 +382,7 @@ li a:link{
  li {
      border-right: 1px solid #bbb;
      border-bottom: 1px solid #bbb;
+
    }
  .gif {
    background-color:white;
@@ -427,7 +428,6 @@ li a:link{
    border-bottom: 0;
  }
 
-<<<<<<< HEAD
 p{
   color:green;
 }
@@ -436,8 +436,7 @@ p{
  @media only screen and (max-width: 300px) {
    .prev, .next,.text {font-size: 11px}
 
-=======
- /*slideshow style*/
+
 .text{
    color: green;
    font-size: 35px;
@@ -508,5 +507,5 @@ p{
 
  @media only screen and (max-width: 300px) {
    .prev, .next,.text {font-size: 11px}
->>>>>>> 209987cd8dcbb43439ea851f1ea8bfb6116a7e4e
+
  }
