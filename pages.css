@@ -372,6 +372,12 @@ li a:link{
  }
  .search {
    float:right;
+   width:10%;
+   border: 2px solid green;
+   color: green;
+   text-align: center;
+   height: 30px;
+
  }
  li a: hover {
    color: inherit;
