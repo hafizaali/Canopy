@@ -394,10 +394,14 @@ li a:link{
    background-color:white;
    margin: 20px 60px 20px 60px;
    padding: 5px 10px 5px 10px;
+<<<<<<< HEAD
    display: block;
    margin-left: auto;
    margin-right: auto;
    width: 50%;
+=======
+   align: center;
+>>>>>>> ded7f429d8ca4ed60d5bcf5b63905f4982e5cefc
  }
 
  img {
